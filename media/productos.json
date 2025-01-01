@@ -1,0 +1,84 @@
+[
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": null
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": null
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": null
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": null
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": null
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": null
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": "/media/productos/hilo2_ySnuKbs.jpg"
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": "/media/productos/hilo2_LMoF8ny.jpg"
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "precio_descuento": "None",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": "/media/productos/hilo2_DfYZrfw.jpg"
+    },
+    {
+        "nombre": "Hilo",
+        "descripcion": "-",
+        "precio": "350.00",
+        "precio_descuento": "None",
+        "cantidad_stock": 10,
+        "categoria": "Cl",
+        "imagen": "/media/productos/hilo2_Vlq8MZD.jpg"
+    }
+]
